@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "24050120308",
+    "firebase_url": "https://kantinonline-4e453.firebaseio.com",
+    "project_id": "kantinonline-4e453",
+    "storage_bucket": "kantinonline-4e453.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24050120308:android:aa6865a9a8496a9b",
+        "android_client_info": {
+          "package_name": "com.example.mmift.kantinonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24050120308-vuiev5g715ujo0qqhpv5qsoruof4v1i4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mmift.kantinonline",
+            "certificate_hash": "c7db8a55905403ee0c9d0dcdb7f365a53bdb551a"
+          }
+        },
+        {
+          "client_id": "24050120308-d4bqb7rpt8fv7s5vjhrgck3k0r8vnca1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXQ2MtIfMKlI0kKD6C-eokqexU-f-z8dk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24050120308-d4bqb7rpt8fv7s5vjhrgck3k0r8vnca1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
