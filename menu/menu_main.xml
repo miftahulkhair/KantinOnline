@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/mKeranjang"
+        android:icon="@drawable/ic_shopping_basket_white_24dp"
+        android:title="Keranjang"
+        app:showAsAction="ifRoom">
+    </item>
+
+    <item
+        android:id="@+id/mLogout"
+        android:title="Logout"
+        app:showAsAction="never">
+    </item>
+</menu>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context="com.example.mmift.kantinonline.Activity.OrderActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:padding="16dp"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/btn_hapus_order"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:background="@drawable/ic_highlight_off_black_24dp"
+            android:layout_marginRight="8dp"/>
+
+        <TextView
+            android:id="@+id/order_nama_menu"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="4"
+            android:text="Nama Menu" />
+
+        <TextView
+            android:id="@+id/order_jumlah_menu"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="Amount" />
+
+        <TextView
+            android:id="@+id/order_total_harga_menu"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="4"
+            android:gravity="right"
+            android:text="Total Harga" />
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
